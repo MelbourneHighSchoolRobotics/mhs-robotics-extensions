@@ -1,0 +1,20 @@
+{
+    "name": "mhs-robotics-extensions",
+    "displayName": "MHSRoboticsExtensions",
+    "description": "Collection of extensions used in MHS Robotics Club",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ev3dev.ev3dev-browser",
+        "lego-education.ev3-micropython",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
+    ],
+    "publisher": "jacksongoerner"
+}

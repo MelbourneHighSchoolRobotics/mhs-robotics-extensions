@@ -16,5 +16,9 @@
         "ms-python.vscode-pylance",
         "ms-toolsai.jupyter"
     ],
-    "publisher": "jacksongoerner"
+    "publisher": "jacksongoerner",
+    "repository": {
+        "url": "https://github.com/MelbourneHighSchoolRobotics/mhs-robotics-extensions",
+        "type": "github"
+    }
 }
